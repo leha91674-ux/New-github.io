@@ -281,7 +281,7 @@
             <div class="photo-section">
                 <div class="photo">
                     <div class="photo-placeholder">
-                     <img src="МаксимТанкист.jpg" alt="Разыскиваемый" style="width:100%; border-radius:5px;"></div>
+                     <img src="\img\МаксимТанкист.jpg" alt="Разыскиваемый" style="width:100%; border-radius:5px;"></div>
                     </div>
                 </div>
                 <div class="reward">
@@ -315,7 +315,7 @@
                     </div>
                     <div class="info-item">
                         <h3>Дата рождения</h3>
-                        <p>27.05.2012 (31 год)</p>
+                        <p>27.05.2012 (12 лет)</p>
                     </div>
                     <div class="info-item">
                         <h3>Место рождения</h3>
