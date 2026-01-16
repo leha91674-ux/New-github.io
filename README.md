@@ -281,7 +281,7 @@
             <div class="photo-section">
                 <div class="photo">
                     <div class="photo-placeholder">
-                     <img src="\img\МаксимТанкист.jpg" alt="Разыскиваемый" style="width:100%; border-radius:5px;"></div>
+                     <img src="img/МаксимТанкист.jpg" alt="Разыскиваемый" style="width:100%; border-radius:5px;"></div>
                     </div>
                 </div>
                 <div class="reward">
